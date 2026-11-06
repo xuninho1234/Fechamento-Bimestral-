@@ -1,0 +1,8 @@
+{
+  "name": "Fechamento Bimestral (MAPÕES)",
+  "description": "Sistema pedagógico para extração, organização por aluno e análise curricular conforme a BNCC e o Currículo Paulista dos fechamentos bimestrais da Sala do Futuro SEDUC-SP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
